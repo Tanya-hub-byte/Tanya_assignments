@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Home\\DisplayAllEmp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PartialViewCGDemo\\Views\\Home\\DisplayAllEmp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95AACD-D6E1-4C5C-89FF-28EBB9F1F9FF}|PartialViewCGDemo\\PartialViewCGDemo.csproj|c:\\users\\tanya\\onedrive\\desktop\\cap training\\day52_projects\\partialviewcgdemo\\views\\shared\\_empcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F95AACD-D6E1-4C5C-89FF-28EBB9F1F9FF}|PartialViewCGDemo\\PartialViewCGDemo.csproj|solutionrelative:partialviewcgdemo\\views\\shared\\_empcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95AACD-D6E1-4C5C-89FF-28EBB9F1F9FF}|PartialViewCGDemo\\PartialViewCGDemo.csproj|c:\\users\\tanya\\onedrive\\desktop\\cap training\\day52_projects\\partialviewcgdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F95AACD-D6E1-4C5C-89FF-28EBB9F1F9FF}|PartialViewCGDemo\\PartialViewCGDemo.csproj|solutionrelative:partialviewcgdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95AACD-D6E1-4C5C-89FF-28EBB9F1F9FF}|PartialViewCGDemo\\PartialViewCGDemo.csproj|c:\\users\\tanya\\onedrive\\desktop\\cap training\\day52_projects\\partialviewcgdemo\\views\\home\\displayemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F95AACD-D6E1-4C5C-89FF-28EBB9F1F9FF}|PartialViewCGDemo\\PartialViewCGDemo.csproj|solutionrelative:partialviewcgdemo\\views\\home\\displayemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Home\\Index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PartialViewCGDemo\\Views\\Home\\Index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95AACD-D6E1-4C5C-89FF-28EBB9F1F9FF}|PartialViewCGDemo\\PartialViewCGDemo.csproj|c:\\users\\tanya\\onedrive\\desktop\\cap training\\day52_projects\\partialviewcgdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F95AACD-D6E1-4C5C-89FF-28EBB9F1F9FF}|PartialViewCGDemo\\PartialViewCGDemo.csproj|solutionrelative:partialviewcgdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95AACD-D6E1-4C5C-89FF-28EBB9F1F9FF}|PartialViewCGDemo\\PartialViewCGDemo.csproj|c:\\users\\tanya\\onedrive\\desktop\\cap training\\day52_projects\\partialviewcgdemo\\views\\shared\\_card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F95AACD-D6E1-4C5C-89FF-28EBB9F1F9FF}|PartialViewCGDemo\\PartialViewCGDemo.csproj|solutionrelative:partialviewcgdemo\\views\\shared\\_card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95AACD-D6E1-4C5C-89FF-28EBB9F1F9FF}|PartialViewCGDemo\\PartialViewCGDemo.csproj|c:\\users\\tanya\\onedrive\\desktop\\cap training\\day52_projects\\partialviewcgdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F95AACD-D6E1-4C5C-89FF-28EBB9F1F9FF}|PartialViewCGDemo\\PartialViewCGDemo.csproj|solutionrelative:partialviewcgdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95AACD-D6E1-4C5C-89FF-28EBB9F1F9FF}|PartialViewCGDemo\\PartialViewCGDemo.csproj|c:\\users\\tanya\\onedrive\\desktop\\cap training\\day52_projects\\partialviewcgdemo\\views\\shared\\_sublayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F95AACD-D6E1-4C5C-89FF-28EBB9F1F9FF}|PartialViewCGDemo\\PartialViewCGDemo.csproj|solutionrelative:partialviewcgdemo\\views\\shared\\_sublayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayAllEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Home\\DisplayAllEmp.cshtml",
+              "RelativeDocumentMoniker": "PartialViewCGDemo\\Views\\Home\\DisplayAllEmp.cshtml",
+              "ToolTip": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Home\\DisplayAllEmp.cshtml*",
+              "RelativeToolTip": "PartialViewCGDemo\\Views\\Home\\DisplayAllEmp.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T04:59:25.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_EmpCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Shared\\_EmpCard.cshtml",
+              "RelativeDocumentMoniker": "PartialViewCGDemo\\Views\\Shared\\_EmpCard.cshtml",
+              "ToolTip": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Shared\\_EmpCard.cshtml",
+              "RelativeToolTip": "PartialViewCGDemo\\Views\\Shared\\_EmpCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T04:49:08.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PartialViewCGDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PartialViewCGDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:21:25.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "displayemp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Home\\displayemp.cshtml",
+              "RelativeDocumentMoniker": "PartialViewCGDemo\\Views\\Home\\displayemp.cshtml",
+              "ToolTip": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Home\\displayemp.cshtml",
+              "RelativeToolTip": "PartialViewCGDemo\\Views\\Home\\displayemp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T04:44:49.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "PartialViewCGDemo\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "PartialViewCGDemo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:32:37.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Home\\Index2.cshtml",
+              "RelativeDocumentMoniker": "PartialViewCGDemo\\Views\\Home\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Home\\Index2.cshtml",
+              "RelativeToolTip": "PartialViewCGDemo\\Views\\Home\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T04:22:53.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Card.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Shared\\_Card.cshtml",
+              "RelativeDocumentMoniker": "PartialViewCGDemo\\Views\\Shared\\_Card.cshtml",
+              "ToolTip": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Shared\\_Card.cshtml",
+              "RelativeToolTip": "PartialViewCGDemo\\Views\\Shared\\_Card.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T04:27:55.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PartialViewCGDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PartialViewCGDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T04:13:31.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_SubLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Shared\\_SubLayout.cshtml",
+              "RelativeDocumentMoniker": "PartialViewCGDemo\\Views\\Shared\\_SubLayout.cshtml",
+              "ToolTip": "C:\\Users\\Tanya\\OneDrive\\Desktop\\cap training\\Day52_projects\\PartialViewCGDemo\\Views\\Shared\\_SubLayout.cshtml",
+              "RelativeToolTip": "PartialViewCGDemo\\Views\\Shared\\_SubLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T04:15:50.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
